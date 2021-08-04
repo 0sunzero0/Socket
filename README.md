@@ -1,5 +1,5 @@
 # Socket
-🕸 20년도 2학기 Network (Socket Programming)
+## 🕸 20년도 2학기 Network (Socket Programming)
 ### HW1
 TCP UDP 송수신 방식 구현
 ### HW2
